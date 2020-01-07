@@ -1,0 +1,12 @@
+{
+  "config": {
+    "Env": ["PATH=/bin"],
+    "Cmd": ["busybox", "sh"]
+  },
+  "rootfs": {
+    "type": "layers",
+    "diff_ids": [
+      "sha256:a82b371fb90be58fa8ad2c3cbd3bbf3a060389d22fa1891635ee4f6e8dbbf9dd"
+    ]
+  }
+}

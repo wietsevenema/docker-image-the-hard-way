@@ -1,0 +1,7 @@
+[
+  {
+    "Config": "config.json",
+    "RepoTags": ["the-hard-way:latest"],
+    "Layers": ["layer.tar"]
+  }
+]
